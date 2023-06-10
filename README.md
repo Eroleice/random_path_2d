@@ -26,4 +26,4 @@
 从S点开始，找到S点相邻的坐标点并记录，这时候我们有5个坐标点（假设4个相邻坐标没有撞墙或者移除）
 5个坐标点再召相邻坐标点，记录
 直到找到E点，或者无法找到新的相邻坐标点。过程演示：
-[!image](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#/media/File:Dijkstras_progress_animation.gif)
+![image](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#/media/File:Dijkstras_progress_animation.gif)
